@@ -1,16 +1,17 @@
-### Hi there 👋
+I'm an aspiring software developer studying in Athens, Greece. <br />
+Even though most of my projects are centered around web development, I enjoy trying out all sorts of new technologies
 
-<!--
-**Petros-K/Petros-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Favourite tools
 
-Here are some ideas to get you started:
+I use nvim for all my projects. I run linux and my setup is relatively barebones. <br />
+For my frontend applications, I usually go with React but I'm currently exploring Svelte as a more performant alternative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I'm proud of
+
+- [React + Typescript, Windows 11 Browser Clone](https://github.com/Petros-K/Windows11-BrowserClone)
+- [Vanilla Javascript Minesweeper](https://github.com/Petros-K/JavascriptMinesweeper)
+
+### Reaching me out
+
+You can contact me via my personal email: pkatif@mail.com <br />
+I will be quick and happy to respond!
