@@ -3,8 +3,9 @@ Even though most of my projects are centered around web development, I enjoy try
 
 ## Favourite tools
 
-I use nvim for all my projects. I run linux and my setup is relatively barebones. <br />
-For my frontend applications, I usually go with React but I'm currently exploring Svelte as a more performant alternative.
+I use nvim for all my projects ([You can find my config file here](https://github.com/Petros-K/NvimConfig)). I run arch linux with i3 and my setup is relatively barebones. <br />
+For my frontend applications, I usually go with React but I'm currently exploring Svelte as a more performant alternative. <br />
+I'm also learning Rust and I sometimes find myself creating some small games using Godot
 
 ## Projects I'm proud of
 
