@@ -11,6 +11,8 @@ I'm also learning Rust and I sometimes find myself creating some small games usi
 
 - [React + Typescript, Windows 11 Browser Clone](https://github.com/Petros-K/Windows11-BrowserClone)
 - [Vanilla Javascript Minesweeper](https://github.com/Petros-K/JavascriptMinesweeper)
+- [Synonimologos, A Greek synonyms-finder application](https://github.com/PetrosKatiforis/Synonimologos)
+
 
 ### Reaching me out
 
