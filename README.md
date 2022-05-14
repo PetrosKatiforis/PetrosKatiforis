@@ -17,4 +17,3 @@ I'm also learning Rust and I sometimes find myself creating some small games usi
 ### Reaching me out
 
 You can contact me via my personal email: pkatif@mail.com <br />
-I will be quick and happy to respond!
