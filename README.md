@@ -1,5 +1,6 @@
-I'm an aspiring software developer studying in Athens, Greece. <br />
+<!-- I'm an aspiring software developer studying in Athens, Greece. <br />
 Even though most of my projects are centered around web development, I enjoy trying out all sorts of new technologies
+-->
 
 ## Favourite tools
 
